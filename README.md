@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working at InfoTrack AU
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, React Native, and Python
 - 🤔 I’m currently studying a Bachelor of Information Technology - Cybersecurity at MQ University
 - 👯 I’m looking to collaborate on my first open source project
 
