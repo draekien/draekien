@@ -23,5 +23,3 @@ Here are some ideas to get you started:
   <summary>:zap: Github stats</summary>
   <img align="left" alt="william's github stats" src="https://github-readme-stats-git-master.draekien.vercel.app/api?username=Draekien&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
  </details>
-
-JerBrains request ID: 20012021/6527479
