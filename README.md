@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at InfoTrack AU
 - 🌱 I’m currently learning React, React Native, and Python
-- 🤔 I’m currently studying a Bachelor of Information Technology - Cybersecurity at MQ University
-- 👯 I’m looking to collaborate on my first open source project
+- 🤔 I have a Bachelor of Information Technology - Cybersecurity from MQ University
+
+### Showcase
+
+- [BookMQ](https://stark-sierra-09793.herokuapp.com/): A university group project to create a MVP website around a chosen product / service. I designed the UX experience and did the majority of the work getting the project up and running. You can find a library of screenshots [here](https://github.com/draekien/book-mq/tree/main/screenshots) and a clone of the Uni repository [here](https://github.com/draekien/book-mq)
+
 
 <details>
   <summary>:zap: Github stats</summary>
